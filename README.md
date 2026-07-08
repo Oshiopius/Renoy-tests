@@ -6,6 +6,9 @@ lobal Wealth Analysis
 ## Overview
 This project analyzes Forbes billionaire data using SQL Server and Power BI.
 
+## Data Source 
+This data was gotten from [download here] (https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset0
+
 ## Tools Used
 - SQL Server
 - Power BI
