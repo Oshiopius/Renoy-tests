@@ -15,7 +15,7 @@ This data was gotten from [download here](https://www.kaggle.com/datasets/nelgir
 - Excel
 
 ## Dashboard
-[Billionaires by country](<img width="648" height="341" alt="Screenshot 2026-07-08 190501" src="https://github.com/user-attachments/assets/13a99af4-09f4-43b4-b9f7-e0cf8e994bea" />)
+[Billionaires by country](<img width="648" height="341" alt="Screenshot 2026-07-08 190501" src="https://github.com/user-attachments/assets/13a99af4-09f4-43b4-b9f7-e0cf8e994bea" />
 
 
 ## Key Questions
