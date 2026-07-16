@@ -1,5 +1,3 @@
-# Renoy-tests
-My first repository, to Practice github
 
 # Global Wealth Analysis
 
@@ -23,9 +21,6 @@ This data was gotten from [download here](https://www.kaggle.com/datasets/nelgir
 - Which industries create the most wealth?
 - What is the average billionaire age?
 
-| Country | industry |
-|---------|----------|
-| Mali| Fashion|
 
 ## Findings
 Coming soon...
